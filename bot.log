@@ -40,3 +40,564 @@
 02-10-2020,18:22 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
 02-10-2020,18:22 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
 02-10-2020,18:22 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+02-10-2020,18:31 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+02-10-2020,18:31 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+02-10-2020,18:31 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+02-10-2020,18:31 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+02-10-2020,18:31 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+02-10-2020,18:31 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+04-10-2020,07:28 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+04-10-2020,07:28 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+04-10-2020,07:28 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+04-10-2020,07:28 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+04-10-2020,07:28 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+04-10-2020,07:28 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+04-10-2020,07:28 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+04-10-2020,07:28 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+04-10-2020,07:28 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+04-10-2020,07:28 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+04-10-2020,07:28 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+04-10-2020,07:28 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+04-10-2020,07:28 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+04-10-2020,07:28 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+04-10-2020,07:28 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+04-10-2020,07:29 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+04-10-2020,07:29 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+04-10-2020,07:29 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+04-10-2020,07:29 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+04-10-2020,07:29 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+04-10-2020,07:29 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+04-10-2020,07:29 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+04-10-2020,07:29 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+04-10-2020,07:29 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+04-10-2020,07:29 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+04-10-2020,07:29 20 Зарегистрирован: Ислам islam@mail.ru
+04-10-2020,07:29 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+04-10-2020,07:29 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+04-10-2020,07:29 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+04-10-2020,07:29 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+04-10-2020,07:29 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+04-10-2020,07:29 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,10:49 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,10:49 40 ошибка в обработке события
+Traceback (most recent call last):
+  File "bot.py", line 67, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "bot.py", line 82, in on_event
+    state = UserState.get(user_id=user_id)
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4001, in get
+    try: return entity._find_one_(kwargs)  # can throw MultipleObjectsFoundError
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4089, in _find_one_
+    throw(ERDiagramError, 'Mapping is not generated for entity %r' % entity.__name__)
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\utils\utils.py", line 106, in throw
+    raise exc
+pony.orm.core.ERDiagramError: Mapping is not generated for entity 'UserState'
+05-10-2020,10:50 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,10:50 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,10:50 40 ошибка в обработке события
+Traceback (most recent call last):
+  File "bot.py", line 67, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "bot.py", line 82, in on_event
+    state = UserState.get(user_id=user_id)
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4001, in get
+    try: return entity._find_one_(kwargs)  # can throw MultipleObjectsFoundError
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4089, in _find_one_
+    throw(ERDiagramError, 'Mapping is not generated for entity %r' % entity.__name__)
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\utils\utils.py", line 106, in throw
+    raise exc
+pony.orm.core.ERDiagramError: Mapping is not generated for entity 'UserState'
+05-10-2020,10:50 40 ошибка в обработке события
+Traceback (most recent call last):
+  File "C:/PycharmProject/VkBot/bot.py", line 67, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "C:\Python3.8\lib\site-packages\pony\orm\core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "C:/PycharmProject/VkBot/bot.py", line 82, in on_event
+    state = UserState.get(user_id=user_id)
+  File "C:\Python3.8\lib\site-packages\pony\orm\core.py", line 4001, in get
+    try: return entity._find_one_(kwargs)  # can throw MultipleObjectsFoundError
+  File "C:\Python3.8\lib\site-packages\pony\orm\core.py", line 4095, in _find_one_
+    avdict[attr] = attr.validate(val, None, entity, from_db=False)
+  File "C:\Python3.8\lib\site-packages\pony\orm\core.py", line 2534, in validate
+    val = Attribute.validate(attr, val, obj, entity, from_db)
+  File "C:\Python3.8\lib\site-packages\pony\orm\core.py", line 2205, in validate
+    val = converter.validate(val, obj)
+  File "C:\Python3.8\lib\site-packages\pony\orm\dbapiprovider.py", line 463, in validate
+    elif not isinstance(val, unicode): throw(TypeError,
+  File "C:\Python3.8\lib\site-packages\pony\utils\utils.py", line 106, in throw
+    raise exc
+TypeError: Value type for attribute UserState.user_id must be str. Got: <class 'int'>
+05-10-2020,10:54 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,10:54 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,10:54 40 ошибка в обработке события
+Traceback (most recent call last):
+  File "bot.py", line 67, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "bot.py", line 82, in on_event
+    state = UserState.get(user_id=str(user_id))
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4001, in get
+    try: return entity._find_one_(kwargs)  # can throw MultipleObjectsFoundError
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4089, in _find_one_
+    throw(ERDiagramError, 'Mapping is not generated for entity %r' % entity.__name__)
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\utils\utils.py", line 106, in throw
+    raise exc
+pony.orm.core.ERDiagramError: Mapping is not generated for entity 'UserState'
+05-10-2020,10:54 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+05-10-2020,10:54 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+05-10-2020,10:54 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+05-10-2020,10:54 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,10:54 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,10:54 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,10:54 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,10:54 40 ошибка в обработке события
+Traceback (most recent call last):
+  File "bot.py", line 67, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "bot.py", line 82, in on_event
+    state = UserState.get(user_id=str(user_id))
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4001, in get
+    try: return entity._find_one_(kwargs)  # can throw MultipleObjectsFoundError
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4089, in _find_one_
+    throw(ERDiagramError, 'Mapping is not generated for entity %r' % entity.__name__)
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\utils\utils.py", line 106, in throw
+    raise exc
+pony.orm.core.ERDiagramError: Mapping is not generated for entity 'UserState'
+05-10-2020,10:54 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+05-10-2020,10:54 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+05-10-2020,10:54 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,10:54 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,10:55 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,10:55 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,10:55 40 ошибка в обработке события
+Traceback (most recent call last):
+  File "bot.py", line 67, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "bot.py", line 82, in on_event
+    state = UserState.get(user_id=str(user_id))
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4001, in get
+    try: return entity._find_one_(kwargs)  # can throw MultipleObjectsFoundError
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4089, in _find_one_
+    throw(ERDiagramError, 'Mapping is not generated for entity %r' % entity.__name__)
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\utils\utils.py", line 106, in throw
+    raise exc
+pony.orm.core.ERDiagramError: Mapping is not generated for entity 'UserState'
+05-10-2020,10:55 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+05-10-2020,10:55 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,10:55 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,10:55 40 ошибка в обработке события
+Traceback (most recent call last):
+  File "bot.py", line 67, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "bot.py", line 82, in on_event
+    state = UserState.get(user_id=str(user_id))
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4001, in get
+    try: return entity._find_one_(kwargs)  # can throw MultipleObjectsFoundError
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4089, in _find_one_
+    throw(ERDiagramError, 'Mapping is not generated for entity %r' % entity.__name__)
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\utils\utils.py", line 106, in throw
+    raise exc
+pony.orm.core.ERDiagramError: Mapping is not generated for entity 'UserState'
+05-10-2020,10:55 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+05-10-2020,10:55 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+05-10-2020,10:55 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+05-10-2020,10:55 40 ошибка в обработке события
+Traceback (most recent call last):
+  File "C:/PycharmProject/VkBot/bot.py", line 67, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "C:\Python3.8\lib\site-packages\pony\orm\core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "C:/PycharmProject/VkBot/bot.py", line 94, in on_event
+    text_to_send = self.start_scenario(user_id, intent['scenario'])
+TypeError: start_scenario() takes 2 positional arguments but 3 were given
+05-10-2020,10:55 40 ошибка в обработке события
+Traceback (most recent call last):
+  File "bot.py", line 67, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "bot.py", line 82, in on_event
+    state = UserState.get(user_id=str(user_id))
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4001, in get
+    try: return entity._find_one_(kwargs)  # can throw MultipleObjectsFoundError
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4089, in _find_one_
+    throw(ERDiagramError, 'Mapping is not generated for entity %r' % entity.__name__)
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\utils\utils.py", line 106, in throw
+    raise exc
+pony.orm.core.ERDiagramError: Mapping is not generated for entity 'UserState'
+05-10-2020,10:55 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+05-10-2020,10:55 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+05-10-2020,10:55 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+05-10-2020,10:55 40 ошибка в обработке события
+Traceback (most recent call last):
+  File "C:/PycharmProject/VkBot/bot.py", line 67, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "C:\Python3.8\lib\site-packages\pony\orm\core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "C:/PycharmProject/VkBot/bot.py", line 94, in on_event
+    text_to_send = self.start_scenario(user_id, intent['scenario'])
+TypeError: start_scenario() takes 2 positional arguments but 3 were given
+05-10-2020,10:55 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,10:55 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,10:55 40 ошибка в обработке события
+Traceback (most recent call last):
+  File "bot.py", line 67, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "bot.py", line 82, in on_event
+    state = UserState.get(user_id=str(user_id))
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4001, in get
+    try: return entity._find_one_(kwargs)  # can throw MultipleObjectsFoundError
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4089, in _find_one_
+    throw(ERDiagramError, 'Mapping is not generated for entity %r' % entity.__name__)
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\utils\utils.py", line 106, in throw
+    raise exc
+pony.orm.core.ERDiagramError: Mapping is not generated for entity 'UserState'
+05-10-2020,10:55 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+05-10-2020,10:55 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+05-10-2020,10:55 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+05-10-2020,10:55 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,10:55 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,10:55 40 ошибка в обработке события
+Traceback (most recent call last):
+  File "bot.py", line 67, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "bot.py", line 82, in on_event
+    state = UserState.get(user_id=str(user_id))
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4001, in get
+    try: return entity._find_one_(kwargs)  # can throw MultipleObjectsFoundError
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4089, in _find_one_
+    throw(ERDiagramError, 'Mapping is not generated for entity %r' % entity.__name__)
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\utils\utils.py", line 106, in throw
+    raise exc
+pony.orm.core.ERDiagramError: Mapping is not generated for entity 'UserState'
+05-10-2020,10:55 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+05-10-2020,10:55 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+05-10-2020,10:55 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+05-10-2020,10:55 40 ошибка в обработке события
+Traceback (most recent call last):
+  File "C:/PycharmProject/VkBot/bot.py", line 67, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "C:\Python3.8\lib\site-packages\pony\orm\core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "C:/PycharmProject/VkBot/bot.py", line 94, in on_event
+    text_to_send = self.start_scenario(user_id, intent['scenario'])
+TypeError: start_scenario() takes 2 positional arguments but 3 were given
+05-10-2020,10:55 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,10:55 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,10:55 40 ошибка в обработке события
+Traceback (most recent call last):
+  File "bot.py", line 67, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "bot.py", line 82, in on_event
+    state = UserState.get(user_id=str(user_id))
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4001, in get
+    try: return entity._find_one_(kwargs)  # can throw MultipleObjectsFoundError
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4089, in _find_one_
+    throw(ERDiagramError, 'Mapping is not generated for entity %r' % entity.__name__)
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\utils\utils.py", line 106, in throw
+    raise exc
+pony.orm.core.ERDiagramError: Mapping is not generated for entity 'UserState'
+05-10-2020,10:55 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+05-10-2020,10:55 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+05-10-2020,10:55 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+05-10-2020,10:55 40 ошибка в обработке события
+Traceback (most recent call last):
+  File "C:/PycharmProject/VkBot/bot.py", line 67, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "C:\Python3.8\lib\site-packages\pony\orm\core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "C:/PycharmProject/VkBot/bot.py", line 94, in on_event
+    text_to_send = self.start_scenario(user_id, intent['scenario'])
+TypeError: start_scenario() takes 2 positional arguments but 3 were given
+05-10-2020,10:58 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,10:58 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,10:58 40 ошибка в обработке события
+Traceback (most recent call last):
+  File "bot.py", line 67, in run
+    except Exception as err:
+  File "<string>", line 2, in on_event
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "bot.py", line 82, in on_event
+    state = UserState.get(user_id=str(user_id))
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4001, in get
+    try: return entity._find_one_(kwargs)  # can throw MultipleObjectsFoundError
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4089, in _find_one_
+    throw(ERDiagramError, 'Mapping is not generated for entity %r' % entity.__name__)
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\utils\utils.py", line 106, in throw
+    raise exc
+pony.orm.core.ERDiagramError: Mapping is not generated for entity 'UserState'
+05-10-2020,10:58 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+05-10-2020,10:58 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+05-10-2020,10:58 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+05-10-2020,10:58 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,10:58 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,10:58 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,10:58 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,10:58 40 ошибка в обработке события
+Traceback (most recent call last):
+  File "bot.py", line 67, in run
+    except Exception as err:
+  File "<string>", line 2, in on_event
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "bot.py", line 82, in on_event
+    state = UserState.get(user_id=str(user_id))
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4001, in get
+    try: return entity._find_one_(kwargs)  # can throw MultipleObjectsFoundError
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4089, in _find_one_
+    throw(ERDiagramError, 'Mapping is not generated for entity %r' % entity.__name__)
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\utils\utils.py", line 106, in throw
+    raise exc
+pony.orm.core.ERDiagramError: Mapping is not generated for entity 'UserState'
+05-10-2020,10:58 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,10:58 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,10:58 40 ошибка в обработке события
+Traceback (most recent call last):
+  File "bot.py", line 67, in run
+    except Exception as err:
+  File "<string>", line 2, in on_event
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "bot.py", line 82, in on_event
+    state = UserState.get(user_id=str(user_id))
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4001, in get
+    try: return entity._find_one_(kwargs)  # can throw MultipleObjectsFoundError
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4089, in _find_one_
+    throw(ERDiagramError, 'Mapping is not generated for entity %r' % entity.__name__)
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\utils\utils.py", line 106, in throw
+    raise exc
+pony.orm.core.ERDiagramError: Mapping is not generated for entity 'UserState'
+05-10-2020,10:58 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,10:58 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,10:58 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,10:58 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,10:58 40 ошибка в обработке события
+Traceback (most recent call last):
+  File "bot.py", line 67, in run
+    except Exception as err:
+  File "<string>", line 2, in on_event
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "bot.py", line 82, in on_event
+    state = UserState.get(user_id=str(user_id))
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4001, in get
+    try: return entity._find_one_(kwargs)  # can throw MultipleObjectsFoundError
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4089, in _find_one_
+    throw(ERDiagramError, 'Mapping is not generated for entity %r' % entity.__name__)
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\utils\utils.py", line 106, in throw
+    raise exc
+pony.orm.core.ERDiagramError: Mapping is not generated for entity 'UserState'
+05-10-2020,10:58 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,10:58 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,10:58 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,10:58 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,10:58 40 ошибка в обработке события
+Traceback (most recent call last):
+  File "bot.py", line 67, in run
+    except Exception as err:
+  File "<string>", line 2, in on_event
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "bot.py", line 82, in on_event
+    state = UserState.get(user_id=str(user_id))
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4001, in get
+    try: return entity._find_one_(kwargs)  # can throw MultipleObjectsFoundError
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4089, in _find_one_
+    throw(ERDiagramError, 'Mapping is not generated for entity %r' % entity.__name__)
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\utils\utils.py", line 106, in throw
+    raise exc
+pony.orm.core.ERDiagramError: Mapping is not generated for entity 'UserState'
+05-10-2020,10:58 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,10:58 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,10:58 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_EDIT
+05-10-2020,10:58 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_EDIT
+05-10-2020,10:58 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,10:58 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,10:58 20 Зарегистрирован: Ислам islam@123.ru
+05-10-2020,10:58 40 ошибка в обработке события
+Traceback (most recent call last):
+  File "bot.py", line 67, in run
+    except Exception as err:
+  File "<string>", line 2, in on_event
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "bot.py", line 82, in on_event
+    state = UserState.get(user_id=str(user_id))
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4001, in get
+    try: return entity._find_one_(kwargs)  # can throw MultipleObjectsFoundError
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4089, in _find_one_
+    throw(ERDiagramError, 'Mapping is not generated for entity %r' % entity.__name__)
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\utils\utils.py", line 106, in throw
+    raise exc
+pony.orm.core.ERDiagramError: Mapping is not generated for entity 'UserState'
+05-10-2020,10:58 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,10:58 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,11:00 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,11:00 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,11:00 40 ошибка в обработке события
+Traceback (most recent call last):
+  File "bot.py", line 67, in run
+    except Exception as err:
+  File "<string>", line 2, in on_event
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "bot.py", line 82, in on_event
+    state = UserState.get(user_id=str(user_id))
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4001, in get
+    try: return entity._find_one_(kwargs)  # can throw MultipleObjectsFoundError
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4089, in _find_one_
+    throw(ERDiagramError, 'Mapping is not generated for entity %r' % entity.__name__)
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\utils\utils.py", line 106, in throw
+    raise exc
+pony.orm.core.ERDiagramError: Mapping is not generated for entity 'UserState'
+05-10-2020,11:00 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+05-10-2020,11:00 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+05-10-2020,11:00 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+05-10-2020,11:00 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,11:00 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,11:00 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+05-10-2020,11:00 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+05-10-2020,11:00 40 ошибка в обработке события
+Traceback (most recent call last):
+  File "bot.py", line 67, in run
+    except Exception as err:
+  File "<string>", line 2, in on_event
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "bot.py", line 82, in on_event
+    state = UserState.get(user_id=str(user_id))
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4001, in get
+    try: return entity._find_one_(kwargs)  # can throw MultipleObjectsFoundError
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4089, in _find_one_
+    throw(ERDiagramError, 'Mapping is not generated for entity %r' % entity.__name__)
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\utils\utils.py", line 106, in throw
+    raise exc
+pony.orm.core.ERDiagramError: Mapping is not generated for entity 'UserState'
+05-10-2020,11:00 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,11:00 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,11:00 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+05-10-2020,11:00 40 ошибка в обработке события
+Traceback (most recent call last):
+  File "bot.py", line 67, in run
+    except Exception as err:
+  File "<string>", line 2, in on_event
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "bot.py", line 82, in on_event
+    state = UserState.get(user_id=str(user_id))
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4001, in get
+    try: return entity._find_one_(kwargs)  # can throw MultipleObjectsFoundError
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4089, in _find_one_
+    throw(ERDiagramError, 'Mapping is not generated for entity %r' % entity.__name__)
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\utils\utils.py", line 106, in throw
+    raise exc
+pony.orm.core.ERDiagramError: Mapping is not generated for entity 'UserState'
+05-10-2020,11:00 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,11:00 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,11:00 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,11:00 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,11:00 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+05-10-2020,11:00 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+05-10-2020,11:00 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+g>", line 2, in on_event
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "bot.py", line 82, in on_event
+    state = UserState.get(user_id=str(user_id))
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4001, in get
+    try: return entity._find_one_(kwargs)  # can throw MultipleObjectsFoundError
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4089, in _find_one_
+    throw(ERDiagramError, 'Mapping is not generated for entity %r' % entity.__name__)
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\utils\utils.py", line 106, in throw
+    raise exc
+pony.orm.core.ERDiagramError: Mapping is not generated for entity 'UserState'
+05-10-2020,11:00 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,11:00 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,11:00 40 ошибка в обработке события
+Traceback (most recent call last):
+  File "bot.py", line 67, in run
+    except Exception as err:
+  File "<string>", line 2, in on_event
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "bot.py", line 82, in on_event
+    state = UserState.get(user_id=str(user_id))
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4001, in get
+    try: return entity._find_one_(kwargs)  # can throw MultipleObjectsFoundError
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4089, in _find_one_
+    throw(ERDiagramError, 'Mapping is not generated for entity %r' % entity.__name__)
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\utils\utils.py", line 106, in throw
+    raise exc
+pony.orm.core.ERDiagramError: Mapping is not generated for entity 'UserState'
+05-10-2020,11:00 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,11:00 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,11:00 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,11:00 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,11:00 20 Зарегистрирован: Ислам lyap@mail.ru
+05-10-2020,11:00 40 ошибка в обработке события
+Traceback (most recent call last):
+  File "bot.py", line 67, in run
+    except Exception as err:
+  File "<string>", line 2, in on_event
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "bot.py", line 82, in on_event
+    state = UserState.get(user_id=str(user_id))
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4001, in get
+    try: return entity._find_one_(kwargs)  # can throw MultipleObjectsFoundError
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\orm\core.py", line 4089, in _find_one_
+    throw(ERDiagramError, 'Mapping is not generated for entity %r' % entity.__name__)
+  File "C:\PycharmProject\VkBot\venv\lib\site-packages\pony\utils\utils.py", line 106, in throw
+    raise exc
+pony.orm.core.ERDiagramError: Mapping is not generated for entity 'UserState'
+05-10-2020,11:00 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,11:00 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,11:04 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,11:04 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+05-10-2020,11:04 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+05-10-2020,11:04 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+05-10-2020,11:04 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,11:04 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,11:04 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+05-10-2020,11:04 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+05-10-2020,11:04 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+05-10-2020,11:04 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,11:05 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,11:05 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,11:05 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,11:05 20 Зарегистрирован: Ислам islam@mail.com
+05-10-2020,11:05 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
