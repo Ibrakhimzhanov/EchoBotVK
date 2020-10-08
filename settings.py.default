@@ -1,5 +1,5 @@
-GROUP_ID = 196874964
-TOKEN = ""
+GROUP_ID = 196874470
+TOKEN = "0517e655679da5a0c5012fb732278fba9d17cf05fd638f6217696cd36e6d115991a48ac65054af4a82984"
 
 INTENTS = [
     {
@@ -39,7 +39,9 @@ SCENARIOS = {
                 "next_step": "step3"
             },
             "step3": {
-                "text": "Спасибо за регистрацию, {name}! Мы отправили на {email} билет, распечатайте его.",
+                "text": "Спасибо за регистрацию, {name}! Ваш билет ниже. Копию мы отправили на {email} билет, "
+                        "распечатайте его.",
+                "image": "generate_ticket_handler",
                 "failure_text": None,
                 "handler": None,
                 "next_step": None
@@ -53,7 +55,7 @@ DEFAULT_ANSWER = 'Не знаю как на это ответить.' \
 
 DB_CONFIG = dict(
     provider = 'postgres',
-    user='postgres',
+    user='vkbot',
     host='localhost',
-    database='VkBot'
+    database='vkbot'
 )

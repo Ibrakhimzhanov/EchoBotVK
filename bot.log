@@ -601,3 +601,501 @@ pony.orm.core.ERDiagramError: Mapping is not generated for entity 'UserState'
 05-10-2020,11:05 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
 05-10-2020,11:05 20 Зарегистрирован: Ислам islam@mail.com
 05-10-2020,11:05 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,11:09 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,11:09 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+05-10-2020,11:09 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+05-10-2020,11:09 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+05-10-2020,11:09 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,11:09 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+05-10-2020,11:09 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+05-10-2020,11:09 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,11:09 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,11:09 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+05-10-2020,11:09 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,11:09 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+05-10-2020,11:09 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+05-10-2020,11:09 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+05-10-2020,11:09 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,11:09 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,11:09 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+05-10-2020,11:09 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+05-10-2020,11:09 20 Зарегистрирован: Исламчик islam123@mail.ru
+05-10-2020,11:09 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,07:48 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,07:48 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,07:48 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,07:48 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,07:48 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,07:48 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,07:48 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,07:48 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,07:48 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,07:48 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,07:48 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,07:48 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,07:48 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,07:48 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,07:48 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,07:48 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,07:48 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,07:48 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,07:48 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,07:48 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,07:48 20 Зарегистрирован: Ислам lyapulya_92@mail.ru
+08-10-2020,07:48 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,07:53 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,07:54 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,07:54 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,07:54 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,07:54 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,07:54 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,07:54 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,07:54 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,07:54 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,07:54 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,07:54 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_EDIT
+08-10-2020,07:54 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,07:54 20 Зарегистрирован: Меч mech19922@mail.ru
+08-10-2020,07:54 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:17 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,11:17 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,11:17 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,11:17 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,11:17 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:17 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:17 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,11:17 20 Зарегистрирован: Ислам lyapulya_92@mail.ru
+08-10-2020,11:17 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:17 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:30 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,11:30 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,11:30 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,11:30 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,11:30 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:30 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,11:30 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,11:30 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,11:30 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:30 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,11:30 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:31 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,11:31 40 ошибка в обработке события
+Traceback (most recent call last):
+  File "C:/PycharmProject/VkBot/bot.py", line 67, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "C:\Python3.8\lib\site-packages\pony\orm\core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "C:/PycharmProject/VkBot/bot.py", line 86, in on_event
+    self.continue_scenario(text, state, user_id)
+  File "C:/PycharmProject/VkBot/bot.py", line 147, in continue_scenario
+    self.send_step(next_step, user_id, text, state.context)
+  File "C:/PycharmProject/VkBot/bot.py", line 130, in send_step
+    self.send_image(image, user_id)
+  File "C:/PycharmProject/VkBot/bot.py", line 114, in send_image
+    owner_id = image_data[0]['owner_id']
+NameError: name 'image_data' is not defined
+08-10-2020,11:31 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:32 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,11:32 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:32 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:32 40 ошибка в обработке события
+Traceback (most recent call last):
+  File "C:/PycharmProject/VkBot/bot.py", line 67, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "C:\Python3.8\lib\site-packages\pony\orm\core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "C:/PycharmProject/VkBot/bot.py", line 86, in on_event
+    self.continue_scenario(text, state, user_id)
+  File "C:/PycharmProject/VkBot/bot.py", line 147, in continue_scenario
+    self.send_step(next_step, user_id, text, state.context)
+  File "C:/PycharmProject/VkBot/bot.py", line 130, in send_step
+    self.send_image(image, user_id)
+  File "C:/PycharmProject/VkBot/bot.py", line 114, in send_image
+    owner_id = image_data[0]['owner_id']
+NameError: name 'image_data' is not defined
+08-10-2020,11:32 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:33 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,11:33 40 ошибка в обработке события
+Traceback (most recent call last):
+  File "C:/PycharmProject/VkBot/bot.py", line 67, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "C:\Python3.8\lib\site-packages\pony\orm\core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "C:/PycharmProject/VkBot/bot.py", line 86, in on_event
+    self.continue_scenario(text, state, user_id)
+  File "C:/PycharmProject/VkBot/bot.py", line 147, in continue_scenario
+    self.send_step(next_step, user_id, text, state.context)
+  File "C:/PycharmProject/VkBot/bot.py", line 130, in send_step
+    self.send_image(image, user_id)
+  File "C:/PycharmProject/VkBot/bot.py", line 119, in send_image
+    message=attachment,
+NameError: name 'attachment' is not defined
+08-10-2020,11:33 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:33 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,11:33 20 Зарегистрирован: ислам lyapulya_92@mail.ru
+08-10-2020,11:33 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:34 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,11:34 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,11:34 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,11:34 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,11:34 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:34 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,11:34 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,11:34 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,11:34 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:34 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,11:34 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:36 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,11:36 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:36 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:36 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,11:36 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:36 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:36 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_EDIT
+08-10-2020,11:36 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,11:41 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,11:41 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:41 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,11:41 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:42 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,11:42 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:42 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_EDIT
+08-10-2020,11:42 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,11:42 20 Зарегистрирован: ислам unkiborg@gmail.com
+08-10-2020,11:42 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:42 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,11:42 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,11:42 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,11:42 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:42 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:42 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,11:42 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,11:42 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,11:42 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,11:42 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:42 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:42 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,11:42 20 Зарегистрирован: Ислам lyapulya_92@mail.com
+08-10-2020,11:42 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:42 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:52 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,11:52 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,11:52 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,11:52 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,11:52 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:52 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,11:52 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:52 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,11:52 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,11:52 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:52 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,11:52 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,11:52 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,11:52 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,11:52 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:52 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:53 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,11:53 20 Зарегистрирован: меч zaebal@mail.ru
+08-10-2020,11:53 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:53 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:55 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,11:55 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,11:55 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,11:55 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,11:55 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:55 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,11:55 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,11:55 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,11:55 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:55 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:55 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,11:55 40 ошибка в обработке события
+Traceback (most recent call last):
+  File "C:/PycharmProject/VkBot/bot.py", line 67, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "C:\Python3.8\lib\site-packages\pony\orm\core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "C:/PycharmProject/VkBot/bot.py", line 86, in on_event
+    self.continue_scenario(text, state, user_id)
+  File "C:/PycharmProject/VkBot/bot.py", line 145, in continue_scenario
+    self.send_step(next_step, user_id, text, state.context)
+  File "C:/PycharmProject/VkBot/bot.py", line 128, in send_step
+    self.send_image(image, user_id)
+  File "C:/PycharmProject/VkBot/bot.py", line 108, in send_image
+    upload_url = self.api.photos.getUploadServer()['upload_url']
+  File "C:\Python3.8\lib\site-packages\vk_api\vk_api.py", line 686, in __call__
+    return self._vk.method(self._method, kwargs)
+  File "C:\Python3.8\lib\site-packages\vk_api\vk_api.py", line 646, in method
+    raise error
+vk_api.exceptions.ApiError: [27] Group authorization failed: method is unavailable with group auth.
+08-10-2020,11:55 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:57 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,11:57 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:57 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_EDIT
+08-10-2020,11:57 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,11:58 20 Зарегистрирован: ислам lyapulya@mail.ru
+08-10-2020,11:58 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:58 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:58 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,11:58 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,11:58 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,11:58 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,11:58 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:58 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:58 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,11:58 20 Зарегистрирован: Ислам mech@mail.ru
+08-10-2020,11:58 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,11:58 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,12:01 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,12:01 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,12:01 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,12:01 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,12:01 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,12:01 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,12:01 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,12:01 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,12:01 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,12:01 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,12:01 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,12:01 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,12:01 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,12:01 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,12:01 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,12:01 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,12:01 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,12:01 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,12:01 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,12:01 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,12:01 40 ошибка в обработке события
+Traceback (most recent call last):
+  File "C:/PycharmProject/VkBot/bot.py", line 67, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "C:\Python3.8\lib\site-packages\pony\orm\core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "C:/PycharmProject/VkBot/bot.py", line 86, in on_event
+    self.continue_scenario(text, state, user_id)
+  File "C:/PycharmProject/VkBot/bot.py", line 145, in continue_scenario
+    self.send_step(next_step, user_id, text, state.context)
+  File "C:/PycharmProject/VkBot/bot.py", line 128, in send_step
+    self.send_image(image, user_id)
+  File "C:/PycharmProject/VkBot/bot.py", line 112, in send_image
+    owner_id = image_data[3]['owner_id']
+IndexError: list index out of range
+08-10-2020,12:01 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,12:04 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,12:05 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,12:05 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,12:05 20 Зарегистрирован: Bckfv mech@mail.ru
+08-10-2020,12:05 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,12:05 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,12:05 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,12:05 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,12:05 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,12:05 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,12:05 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,12:05 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,12:05 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,12:05 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,12:05 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,12:05 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,12:05 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,12:05 20 Зарегистрирован: Ислам Mech@mail.ru
+08-10-2020,12:05 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,12:05 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,12:06 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,12:06 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,12:06 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,12:06 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,12:06 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,12:06 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,12:06 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,12:06 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,12:06 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,12:06 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,12:06 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,12:06 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,12:06 20 Зарегистрирован: Ислам mech@mail.ru
+08-10-2020,12:06 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,12:06 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,13:16 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,13:16 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,13:16 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,13:16 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,13:16 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,13:16 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,13:16 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,13:16 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,13:16 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,13:16 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,13:16 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,13:16 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,13:16 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,13:16 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,13:17 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,13:17 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,13:17 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,13:17 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,13:17 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,13:17 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,13:17 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,13:17 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,13:17 20 Зарегистрирован: ислам mech1992@mail.ru
+08-10-2020,13:17 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,13:17 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,13:19 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,13:19 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,13:19 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,13:19 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,13:19 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,13:19 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,13:19 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,13:19 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,13:19 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,13:19 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,13:19 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,13:19 40 ошибка в обработке события
+Traceback (most recent call last):
+  File "C:/PycharmProject/VkBot/bot.py", line 67, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "C:\Python3.8\lib\site-packages\pony\orm\core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "C:/PycharmProject/VkBot/bot.py", line 86, in on_event
+    self.continue_scenario(text, state, user_id)
+  File "C:/PycharmProject/VkBot/bot.py", line 145, in continue_scenario
+    self.send_step(next_step, user_id, text, state.context)
+  File "C:/PycharmProject/VkBot/bot.py", line 128, in send_step
+    self.send_image(image, user_id)
+  File "C:/PycharmProject/VkBot/bot.py", line 112, in send_image
+    owner_id = image_data[1]['owner_id']
+IndexError: list index out of range
+08-10-2020,13:19 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:04 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,14:04 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:04 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_EDIT
+08-10-2020,14:04 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,14:04 40 ошибка в обработке события
+Traceback (most recent call last):
+  File "C:/PycharmProject/VkBot/bot.py", line 67, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "C:\Python3.8\lib\site-packages\pony\orm\core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "C:/PycharmProject/VkBot/bot.py", line 86, in on_event
+    self.continue_scenario(text, state, user_id)
+  File "C:/PycharmProject/VkBot/bot.py", line 134, in continue_scenario
+    next_step = steps[step['next_step']]
+  File "C:/PycharmProject/VkBot/bot.py", line 117, in send_step
+    image = handler(text, context)
+  File "C:/PycharmProject/VkBot/bot.py", line 108, in send_image
+    upload_url = self.photos.getMessagesUploadServer()['upload_url']
+AttributeError: 'Bot' object has no attribute 'photos'
+08-10-2020,14:04 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:04 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,14:04 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:05 20 Зарегистрирован: ислам htu@mail.ru
+08-10-2020,14:05 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:05 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,14:05 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,14:05 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,14:05 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,14:05 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:05 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,14:05 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,14:05 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,14:05 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:05 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:09 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,14:09 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:09 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,14:10 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,14:10 20 Зарегистрирован: ислам self@mail.ru
+08-10-2020,14:10 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:10 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:11 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,14:11 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,14:11 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,14:11 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,14:11 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:11 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,14:11 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,14:11 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:11 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,14:11 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,14:11 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:11 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,14:11 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,14:11 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,14:11 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:11 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,14:11 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:11 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,14:11 20 Зарегистрирован: Ислам unkiborg@gmail.com
+08-10-2020,14:11 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:11 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:15 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,14:15 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,14:15 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,14:15 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:15 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,14:15 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,14:15 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,14:15 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:15 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,14:15 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,14:15 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:15 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,14:15 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,14:15 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,14:15 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:15 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,14:15 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:15 20 Зарегистрирован: Ислам lyapulya_92@mail.ru
+08-10-2020,14:15 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:15 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:19 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,14:19 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,14:19 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,14:19 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:19 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,14:19 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,14:19 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,14:19 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:20 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,14:20 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:20 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,14:20 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,14:20 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,14:20 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,14:20 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:20 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:20 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,14:20 20 Зарегистрирован: Ислам lyapulya_92@mail.ru
+08-10-2020,14:20 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:20 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:21 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,14:21 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,14:21 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,14:21 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,14:21 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:21 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,14:21 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,14:21 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,14:21 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:21 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,14:21 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:21 10 User gets {'name': 'Дата проведения', 'tokens': ('когда', 'сколько', 'дата', 'дату'), 'scenario': None, 'answer': 'Конференция проводится 15-го Ноября, регистрация начинается в 10 утра'}
+08-10-2020,14:21 10 User gets {'name': 'Место проведения', 'tokens': ('где', 'место', 'локация', 'адрес', 'адрес'), 'scenario': None, 'answer': "Конференция пройдет в Бизнес Центре 'Hamkor' 3-этаж,  проспект Бобура 53"}
+08-10-2020,14:21 10 User gets {'name': 'Регистрация', 'tokens': ('рег', 'регистрация', 'добав', 'регист', 'запись'), 'scenario': 'registration', 'answer': None}
+08-10-2020,14:21 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:21 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,14:21 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:21 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_TYPING_STATE
+08-10-2020,14:21 20 Зарегистрирован: Ислам unkiborg@gmail.com
+08-10-2020,14:21 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY
+08-10-2020,14:21 20 Мы не умеем обрабатывать событие такого типа VkBotEventType.MESSAGE_REPLY

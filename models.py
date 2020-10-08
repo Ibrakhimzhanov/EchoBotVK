@@ -19,4 +19,5 @@ class Registration(db.Entity):
     name = Required(str)
     email = Required(str)
 
+
 db.generate_mapping(create_tables=True)
